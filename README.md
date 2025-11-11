@@ -35,7 +35,7 @@ Con experiencia en múltiples lenguajes, frameworks y herramientas que permiten 
 | [🧠 IA Assistant](https://github.com/tuusuario/ia-assistant) | Asistente inteligente con IA y APIs | Python, React, OpenAI API |
 | [💼 E-commerce Moderno](https://github.com/tuusuario/ecommerce-react) | Tienda online interactiva con backend seguro | React, Node.js, Tailwind |
 | [📊 Dashboard de Control](https://github.com/tuusuario/dashboard-admin) | Panel administrativo con autenticación JWT | C#, .NET, SQL Server |
--->
+
 
 ### 🔧 Experiencia Técnica
 - Desarrollo Full Stack (Frontend y Backend)
@@ -51,4 +51,4 @@ Con experiencia en múltiples lenguajes, frameworks y herramientas que permiten 
 - 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
 - 🐙 [GitHub](https://github.com/tuusuario)
 - ✉️ [Email](mailto:tucorreo@dominio.com)
-
+-->
